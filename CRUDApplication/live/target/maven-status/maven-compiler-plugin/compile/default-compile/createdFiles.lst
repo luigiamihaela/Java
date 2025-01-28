@@ -1,0 +1,9 @@
+com\example\live\security\CustomUserDetailsService.class
+com\example\live\LiveApplication.class
+com\example\live\user\UserRepository.class
+com\example\live\user\UserController.class
+com\example\live\security\SecurityConfig.class
+com\example\live\recipe\Recipe.class
+com\example\live\user\User.class
+com\example\live\recipe\RecipeController.class
+com\example\live\recipe\RecipeRepository.class
